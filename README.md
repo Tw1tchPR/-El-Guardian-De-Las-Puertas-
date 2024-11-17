@@ -3,6 +3,7 @@ Descripción
 "El guardián de las puertas" es un juego de lógica y habilidad en el que el jugador debe aceptar o rechazar criaturas mágicas basándose en reglas específicas que cambian con cada nivel. El objetivo es acumular la mayor cantidad de puntos posible antes de perder todas las vidas.
 
 Cómo jugar
+
 Reglas del juego:
 
 Nivel 1: Acepta criaturas cuyo código sea múltiplo de 3.
